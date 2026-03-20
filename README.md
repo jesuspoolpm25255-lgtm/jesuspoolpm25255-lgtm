@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola soy jesus gabriel pool quijano! 👋
 
-<!--
-**jesuspoolpm25255-lgtm/jesuspoolpm25255-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👽 sobre mi
+- 🏫 Actualmente estoy estudiando en el Colegio de Estudios cientificos y Tecnologicos del Estado de campeche del plantel pomuch en la especialidad de programacion
+- 📖 Estoy aprendiendo a programar en el lenguaje de python y utilizar la terminal en Linux mint
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨🎒 HErramientas en mi mochila
+- **sistema:** Linux Mint
+- **Control de versiones:** Git y gitHub
+- **Aprendiendo ahora:** logica de programacion
+  
+---
+*"Mi trabajo en una sola linea: desprimente"*
